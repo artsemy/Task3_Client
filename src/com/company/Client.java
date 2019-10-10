@@ -10,6 +10,7 @@ public class Client {
     private BufferedReader in;
     private BufferedWriter out;
 
+    //run client
     public void run(){
         try {
             try {
